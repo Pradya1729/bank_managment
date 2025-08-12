@@ -33,8 +33,8 @@ It supports both **Admin** and **Customer** roles, allowing secure banking opera
 ## 📸 Screenshots
 
 ### 🏦 Dashboard
-![Dashboard](screenshots/dashboard.png)
-
+[![Dashboard](screenshots/dashboard.png)
+](https://github.com/Pradya1729/bank_managment/blob/7b1a01e1aae5229767a963f9d5d5d1178e2bdec7/Screenshot%202025-08-12%20095633.png)
 ### 🔑 Login Page
 ![Login](screenshots/login.png)
 
